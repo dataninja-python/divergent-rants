@@ -1,4 +1,4 @@
-baseURL = 'https://www.igherighe.com/'
+baseURL = 'https://dataninja-python.github.io/divergent-rants/'
 languageCode = 'en-us'
 title = "Rants From A Divergent Mind"
 theme = 'ananke'
